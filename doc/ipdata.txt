@@ -1,0 +1,2 @@
+http://lite.ip2location.com/database-ip-country-region-city-latitude-longitude-zipcode-timezone
+https://db-ip.com/db/#mysql_city

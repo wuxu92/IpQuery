@@ -1,0 +1,9 @@
+.idea/
+*.zip
+*.rar
+*.gz
+*.log
+*.log.*
+*.tmp
+*.swp
+
