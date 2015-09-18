@@ -1,2 +1,3 @@
-# baseInfoApi
-basic information library for common usage
+# IP查询和手机号码信息查询的库 #
+ip库使用纯真IP数据库，手机号数据库使用的是网络上的手机号码数据。
+ip库使用qqwry扩展，需要手动编译安装，不需要数据库；数据库需要数据库，数据库sql在doc文件夹下。

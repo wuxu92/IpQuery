@@ -5,7 +5,7 @@ return array(
         'enableSlaves' => true,
         'masterConfig' => array(
             'username' => 'developer',
-            'password' => 'zhangyoutianxia&2015',
+            'password' => '&2015',
             'attributes' => array(
                 PDO::ATTR_TIMEOUT => 10,
             )
@@ -16,7 +16,7 @@ return array(
         ),
         'slaveConfig' => array(
             'username' => 'developer',
-            'password' => 'zhangyoutianxia&2015',
+            'password' => '&2015',
             'attributes' => array(
                 PDO::ATTR_TIMEOUT => 10,
             )
